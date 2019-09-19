@@ -1,3 +1,5 @@
+Used by Sapphire Care
+
 # Edit Plist File plugin
 by Haythem OUEDERNI - <a href="https://github.com/haythemOUE">@haythemOUE</a>
 
